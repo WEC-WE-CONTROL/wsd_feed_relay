@@ -1,0 +1,39 @@
+name: mirror
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch and check the WSD file
+        run: |
+          set -euo pipefail
+          URL='https://www.esd.wsd.gov.hk/wsms_open_data/WSMS_OPEN_DATA(all).csv'
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
+          HEADER='SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DISTRICT_ZHT|NATURE_DESCRIPTION|NATURE_DESCRIPTION_ZHT|SUSPENSION_DATE_TIME|ACTUAL_RESUMPTION_DATE_TIME|LONG_ADDRESS|LONG_ADDRESS_ZHT|CAUSE|CAUSE_ZHT|STATUS|STATUS_ZHT'
+          code=$(curl -sS -m 60 -A "$UA" -o fetched.csv -w '%{http_code}' "$URL")
+          size=$(wc -c < fetched.csv)
+          [ "$code" = "200" ] || { echo "REFUSING: HTTP $code"; exit 1; }
+          [ "$size" -gt 10240 ] || { echo "REFUSING: only $size bytes"; exit 1; }
+          if head -c 512 fetched.csv | grep -qi '<html\|<!doctype'; then echo "REFUSING: this is a web page, not the CSV"; exit 1; fi
+          first=$(head -n 1 fetched.csv | tr -d '\r')
+          [ "$first" = "$HEADER" ] || { echo "REFUSING: header row changed: $first"; exit 1; }
+          cp fetched.csv wsms_open_data.csv
+          sha=$(sha256sum wsms_open_data.csv | cut -d' ' -f1)
+          printf '{"checked_at":"%s","bytes":%s,"sha256":"%s","source_url":"%s"}\n' \
+            "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$size" "$sha" "$URL" > status.json
+          rm fetched.csv
+      - name: Commit when something changed
+        run: |
+          git config user.name "wsd-feed-relay"
+          git config user.email "wsd-feed-relay@users.noreply.github.com"
+          git add wsms_open_data.csv status.json
+          if git diff --cached --quiet; then echo "no change"; else git commit -m "mirror: WSD file checked $(date -u +%Y-%m-%dT%H:%MZ)"; git push; fi
