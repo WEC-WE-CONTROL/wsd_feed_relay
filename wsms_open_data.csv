@@ -76,7 +76,7 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101214419|Fresh Water|食水|North|北區|Emergency|緊急停水|12-10-2026 16:09|12-10-2026 19:07|LEE UK NEW VILLAGE|李屋新村|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101214420|Salt Water|鹹水|Sha Tin|沙田區|Emergency|緊急停水|12-10-2026 16:11|12-10-2026 16:46|FO TAN VILLAGE|火炭村|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101214421|Salt Water|鹹水|Sha Tin|沙田區|Emergency|緊急停水|12-10-2026 16:47|13-10-2026 05:30|FO TAN VILLAGE,SUI WO ROAD,CHOI WO COURT|火炭村,穗禾路,彩禾苑|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
-2026101214423|Salt Water|鹹水|Central & Western|中西區|Emergency|緊急停水|12-10-2026 18:13||41 TUNG STREET|東街41號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026101214423|Salt Water|鹹水|Central & Western|中西區|Emergency|緊急停水|12-10-2026 18:13|13-10-2026 20:00|41 TUNG STREET|東街41號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101214424|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|12-10-2026 19:43|12-10-2026 21:01|NGAU TAM MEI|牛潭尾|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101214425|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|12-10-2026 20:46|12-10-2026 20:57|AREA AROUND LUNG MEI TSUEN|龍尾村一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101214427|Salt Water|鹹水|Kowloon City|九龍城區|Emergency|緊急停水|12-10-2026 22:10|13-10-2026 04:00|NOS 28-80 TAM KUNG ROAD (EVEN NOS), NOS 47-99 PAK TAI STREET (ODD NOS)|譚公道28-80號 (雙數), 北帝街47-99號 (單數)|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
@@ -105,12 +105,12 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101314467|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|13-10-2026 14:44|13-10-2026 15:45|40A 222 SAN UK TSUEN, NEAR LAMP POST VD2091| 新屋村40A 222號一帶 近燈柱VD2091|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101314468|Salt Water|鹹水|Kwun Tong|觀塘區|Emergency|緊急停水|13-10-2026 14:55||NO.3,11-17 TSUI PING ROAD, NO.4 FUK TONG ROAD|翠屏道3,11-17號, 福塘道4號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026101314469|Fresh Water|食水|Sha Tin|沙田區|Emergency|緊急停水|13-10-2026 15:00|13-10-2026 16:03|FO TAN TSUEN|火炭村|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
-2026101314470|Fresh Water|食水|North|北區|Emergency|緊急停水|13-10-2026 15:05||PO SHEUNG TSUEN LANE NO.7 |莆上村第七巷|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026101314470|Fresh Water|食水|North|北區|Emergency|緊急停水|13-10-2026 15:05|13-10-2026 17:05|PO SHEUNG TSUEN LANE NO.7 |莆上村第七巷|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101314471|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|13-10-2026 14:50|13-10-2026 15:14|TIN SAM SAN TSUEN, NEAR LAMP POST VA1909|田心新村 近燈柱VA1909|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101314472|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|13-10-2026 15:46|13-10-2026 16:58|AREA AROUND L/P VA4144 IN TAI HANG |泰亨 燈柱VA4144 附近一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101314473|Fresh Water|食水|North|北區|Emergency|緊急停水|13-10-2026 16:12|13-10-2026 19:05|WAI LOI TSUEN LANE NO.2|圍內村2巷|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101314474|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|13-10-2026 16:30||YI WO BUILDING|宜和樓|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026101314476|Salt Water|鹹水|Wan Chai|灣仔區|Emergency|緊急停水|13-10-2026 16:53||8 PENNINGTON STREET, 3,9 KESWICK STREET, 9,19,21 IRVING STREET, 133 LEIGHTON ROAD|邊寧頓街8號,敬誠街3,9號, 伊榮街9,19,21號, 禮頓道133號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026101314477|Salt Water|鹹水|Wan Chai|灣仔區|Emergency|緊急停水|13-10-2026 17:14||NO.12-18 KWAI SING LANE |桂成里12-18號 |Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026101314478|Fresh Water|食水|North|北區|Emergency|緊急停水|13-10-2026 17:20||WAI LOI TSUEN|圍內村|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026101314478|Fresh Water|食水|North|北區|Emergency|緊急停水|13-10-2026 17:20|13-10-2026 20:04|WAI LOI TSUEN|圍內村|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101314479|Fresh Water|食水|Southern|南區|Emergency|緊急停水|13-10-2026 21:30||NO.1,3.5 NORTHCOTE CLOSE|羅富國徑1.3,5號|Emergency repairing of water main/installation|緊急維修水管工程|Suspension not yet started|停水仍未開始
