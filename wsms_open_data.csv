@@ -120,7 +120,7 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101414510|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|14-10-2026 14:18|14-10-2026 15:30|AREA OF LAMP POST VD3530, KO PO TSUEN|高埔村近燈柱VD3530一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101414511|Salt Water|鹹水|Sha Tin|沙田區|Planned|計劃停水|21-10-2026 09:00||Nos. 60-63, 65-73, 75-78, 80-83, 90-73 and 95-98 To Shek, Fire Hydrant Nos: PH20820, SN14429  |多石60至63、65至73、75至78、80至83、90至93及95至98號, 消防栓編號: PH20820, SN14429|Replacement and rehabilitation of water mains|更換及修復水管計劃|Suspension not yet started|停水仍未開始
 2026101414514|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|14-10-2026 14:50|14-10-2026 16:56|NOS.45-46, 53-64 MUK MIN HA TSUEN|木棉下村45-46, 53-64號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
-2026101414515|Salt Water|鹹水|Central & Western|中西區|Emergency|緊急停水|14-10-2026 14:51||NOS 2-42 CONDUIT ROAD|干德道2-42號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026101414515|Salt Water|鹹水|Central & Western|中西區|Emergency|緊急停水|14-10-2026 14:51|15-10-2026 00:00|NOS 2-42 CONDUIT ROAD|干德道2-42號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101414517|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|14-10-2026 15:00|14-10-2026 16:00|AREA OF LAMP POST VE0139, TAI YEUNG CHE|大陽輋近燈柱VE0139一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101414518|Salt Water|鹹水|Yau Tsim Mong|油尖旺區|Emergency|緊急停水|14-10-2026 15:00|14-10-2026 16:44|MAN YUEN BUILDING|文苑樓|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101414520|Salt Water|鹹水|Wong Tai Sin|黃大仙區|Emergency|緊急停水|14-10-2026 15:05|14-10-2026 18:26|WING SIN HOUSE, NGA CHUK STREET PLAYGROUND|詠善樓、雅竹街遊樂場|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
@@ -138,4 +138,5 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101414538|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|14-10-2026 21:19|14-10-2026 22:12|AREA AROUND SHUI TSIU SNA TSUEN NEARBY LAMP POST V6234|水蕉新村近燈柱V6234一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101414539|Fresh Water|食水|Kowloon City|九龍城區|Emergency|緊急停水|14-10-2026 21:20||NO.22 PERTH STREET (ONLY FIRE SERVICE WATER SUPPLY IS AFFECTED)|巴富街22號 (只阻消防用水)|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026101414540|Salt Water|鹹水|Yuen Long|元朗區|Emergency|緊急停水|14-10-2026 23:00|15-10-2026 00:30|GRANDEUR TERRACE|俊宏軒|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
-2026101514542|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 00:55|| LIDO GARDEN|麗都花園|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026101514542|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 00:55|15-10-2026 01:05| LIDO GARDEN|麗都花園|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026101514543|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 01:05|15-10-2026 01:15|RHINE GARDEN |海韻花園 |Valve exercise|水掣測試工作|Supply resumed|供水已恢復
