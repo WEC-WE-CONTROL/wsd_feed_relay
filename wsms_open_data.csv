@@ -140,7 +140,7 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101414540|Salt Water|鹹水|Yuen Long|元朗區|Emergency|緊急停水|14-10-2026 23:00|15-10-2026 00:30|GRANDEUR TERRACE|俊宏軒|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101514542|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 00:55|15-10-2026 01:05| LIDO GARDEN|麗都花園|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101514543|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 01:05|15-10-2026 01:15|RHINE GARDEN |海韻花園 |Valve exercise|水掣測試工作|Supply resumed|供水已恢復
-2026101514544|Salt Water|鹹水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 06:00||OXFORD INDUSTRIAL BUILDING|牛津工業大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026101514544|Salt Water|鹹水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 06:00|15-10-2026 13:54|OXFORD INDUSTRIAL BUILDING|牛津工業大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101514545|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|15-10-2026 06:30||24-30 SHEK KIN STREET,53-55 WO YI HOP ROAD,KIN HING INDUSTRIAL BUILDING|石建街24-30號,和宜合道53-55號,建興工業大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026101514548|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|15-10-2026 09:12|15-10-2026 09:36|FAN TIN TSUEN|蕃田村|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026101514549|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|15-10-2026 09:32|15-10-2026 11:14|AREA AROUND LAMP POST VE3607 WAI SUM TSUEN|圍心村 近燈柱VE3607一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
@@ -157,3 +157,4 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101514562|Fresh Water|食水|Tsuen Wan|荃灣區|Emergency|緊急停水|15-10-2026 11:13|15-10-2026 12:00|YUEN TUN VILLAGE|圓墩村|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026101514565|Fresh Water|食水|Eastern|東區|Emergency|緊急停水|15-10-2026 12:01||NO.257-273 KING'S ROAD, NO.293-299 HEI WO STREET|英皇道257-273號，熙和街293-299號|Valve exercise|水掣測試工作|Supply being suspended|現正停水
 2026101514566|Fresh Water|食水|Sha Tin|沙田區|Emergency|緊急停水|15-10-2026 12:33|15-10-2026 13:02|AREA AROUND LAMP POST BE1594 SAI SHA ROAD|西沙路 近燈柱BE1594一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026101514567|Fresh Water|食水|Islands|離島區|Emergency|緊急停水|15-10-2026 13:27||PART OF TAI O SAN SHA, SAN SHA STILT HOUSE|部分大澳新沙，新沙棚屋|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
