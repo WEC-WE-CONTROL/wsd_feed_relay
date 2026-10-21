@@ -93,7 +93,7 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026102114768|Fresh Water|食水|Sha Tin|沙田區|Emergency|緊急停水|21-10-2026 09:35|21-10-2026 11:00|62, 63, 67 SHA TIN TAU|沙田頭62, 63, 67號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102114769|Fresh Water|食水|North|北區|Emergency|緊急停水|21-10-2026 09:39|21-10-2026 11:30|SWALLOW GARDEN|海燕花園|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102114770|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|21-10-2026 09:45|21-10-2026 11:08|AREA AROUND FUNG KAT HEUNG NEAR LAMP POST VA3333|逄吉鄉近燈柱VA3333一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
-2026102114771|Fresh Water|食水|Central & Western|中西區|Emergency|緊急停水|21-10-2026 22:30||1 NEW STREET, 94-100 QUEEN'S ROAD WEST (EVEN.)|新街 1號, 皇后大道西 94-100號 (雙數)|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102114771|Fresh Water|食水|Central & Western|中西區|Emergency|緊急停水|21-10-2026 22:30|22-10-2026 01:37|1 NEW STREET, 94-100 QUEEN'S ROAD WEST (EVEN.)|新街 1號, 皇后大道西 94-100號 (雙數)|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102114772|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|21-10-2026 09:54|21-10-2026 11:25|PART OF TSUN WEN ROAD|部份震寰路|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102114773|Fresh Water|食水|North|北區|Emergency|緊急停水|21-10-2026 10:02|21-10-2026 11:30|AREA AROUND LAMP POST EA9271 AT AU HA TSUEN|凹下村近燈柱EA9271一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102114774|Fresh Water|食水|North|北區|Emergency|緊急停水|21-10-2026 10:05|21-10-2026 11:16|AREA NEAR LAMP POST EB3961, LIN MA HANG ROAD|蓮麻坑路 近燈柱 EB3961 附近|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
@@ -125,4 +125,4 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026102114818|Salt Water|鹹水|Sha Tin|沙田區|Emergency|緊急停水|21-10-2026 19:00|21-10-2026 20:00|192-231 TIN SAM TSUEN|田心村 192-231號|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102114819|Salt Water|鹹水|Eastern|東區|Emergency|緊急停水|21-10-2026 20:10||NOS.61-77 NAM ON STREET (ODD.), NOS.283-305 SHAU KEI WAN ROAD (EVEN.)|南安街61-77號(單數), 筲箕灣道 283-305(單數)|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026102114820|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|21-10-2026 22:59||AREA OF LAMP POST VA3333, FUNG KAT HEUNG|逄吉鄉近燈柱VA3333一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026102114821|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|21-10-2026 23:41||WONG YI AU TSUEN|黃宜坳村|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102114821|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|21-10-2026 23:41||WONG YI AU TSUEN, MARVELOUS VILLA|黃宜坳村, 皇悅居|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
