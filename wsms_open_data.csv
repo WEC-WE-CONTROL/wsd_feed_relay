@@ -41,6 +41,7 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026101914697|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|19-10-2026 22:15|19-10-2026 23:46|25, 26 KAM SHEK NEW VILLAGE|錦石新村 25, 26號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102014701|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|20-10-2026 09:01|20-10-2026 10:00|PART OF CHUNG UK TSUEN|部分鍾屋村|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102014703|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|20-10-2026 09:22|20-10-2026 10:45|PING LONG VILLAGE|坪朗村|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026102014704|Fresh Water|食水|Tai Po|大埔區|Planned|計劃停水|28-10-2026 09:00||Cheung Uk Tei & Tiffany Court, Tai Po|大埔張屋地村，庭峰居|Improvement work of water main/installation|水管改善工程|Suspension not yet started|停水仍未開始
 2026102014705|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|20-10-2026 09:25|20-10-2026 09:59|AREA AROUND L/P VD5912 IN MAI PO LO WAI|米埔老圍 燈柱VD5912 附近一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102014706|Fresh Water|食水|North|北區|Emergency|緊急停水|20-10-2026 09:38|20-10-2026 11:29|AREA AROUND L/P CD0001 ALONG LIN MA HANG ROAD|蓮麻坑路 燈柱CD0001附近一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102014707|Fresh Water|食水|Wan Chai|灣仔區|Emergency|緊急停水|20-10-2026 09:40|20-10-2026 11:00|WEAK / NO POTABLE WATER: HAPPY VIEW TERRACE, BEVERLY HILL, NO.4 BROADWOOD ROAD|水弱/無水: 樂景臺2-43號, 比華利山, 樂活道4號|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
@@ -132,3 +133,4 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026102214823|Salt Water|鹹水|Eastern, Wan Chai|東區, 灣仔區|Emergency|緊急停水|22-10-2026 07:00||NOS.8-18, 39-41 CLOUD VIEW ROAD, NOS.88-114 TIN HAU TEMPLE ROAD|雲景道8-18、39-41號，天后廟道88-114號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026102214824|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|22-10-2026 08:18|22-10-2026 09:15|KWAI LOK BUILDING,YUET BOR BUILDING,MAI NING BUILDING,MAI FUNG BUILDING|葵樂大廈,月波樓,美寧大廈,美豐大廈|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102214825|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|22-10-2026 09:00||KWAI LOK BUILDING,YUET BOR BUILDING,MAI NING BUILDING,MAI FUNG BUILDING|葵樂大廈,月波樓,美寧大廈,美豐大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102214826|Fresh Water|食水|North|北區|Emergency|緊急停水|22-10-2026 09:59||FANLING KWAN TEI NORTH VILLAGE NEAR LAMP POST EA8787|粉嶺軍地北村近燈柱EA8787附近|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
