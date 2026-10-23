@@ -177,13 +177,18 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026102314895|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|23-10-2026 14:13|23-10-2026 16:00|AREA OF SHEK KONG AIRFIELD ROAD NEAR LAMP POST H4001|石崗機場路 近 燈柱H4001一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314897|Fresh Water|食水|Southern|南區|Emergency|緊急停水|23-10-2026 14:20|23-10-2026 15:20|NOS 39, 45, 51-55 DEEP WATER BAY ROAD|深水灣道39, 45, 51-55號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314901|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|23-10-2026 14:32||AREA AROUND LAMP POST V3067 WING PING TSUEN|永平村 近燈柱V3067一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026102314903|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|23-10-2026 14:46||CORAL VILLAS|珊瑚閣|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102314903|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|23-10-2026 14:46|23-10-2026 16:00|CORAL VILLAS|珊瑚閣|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314904|Fresh Water|食水|North|北區|Emergency|緊急停水|23-10-2026 14:51||AREA AROUND LAMP POST VD8096 PING CHE ROAD|坪輋路 近燈柱VD8096一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026102314905|Fresh Water|食水|Sai Kung|西貢區|Planned|計劃停水|30-10-2026 09:00||Nos.16,18 to 24 Nam Wai, Lot Nos. DD214 759 RP|南圍16、18至24號,地段編號 DD214 759 RP|Replacement and rehabilitation of water mains|更換及修復水管計劃|Suspension not yet started|停水仍未開始
 2026102314906|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|23-10-2026 15:00||KWAI WO BUILDING, CHEONG FAT BUILDING, KWAI KING BUILDING|葵和大廈, 昌發大廈, 葵景大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026102314909|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|23-10-2026 15:14||AREA AROUND LAMP POST GE0828 YUEN LENG TSUEN|元嶺村 近燈柱GE0828一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
 2026102314910|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|23-10-2026 15:40||LAMP POST VE0177 OF HANG HA PO TSUEN|坑下莆村近燈柱VE0177|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026102314911|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|23-10-2026 15:50||AREA AROUND WONG UK TSUEN|黃屋村一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026102314912|Salt Water|鹹水|Wong Tai Sin|黃大仙區|Emergency|緊急停水|23-10-2026 15:51||KAI TAK GARDEN|�ˉw花園|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026102314913|Fresh Water|食水|North|北區|Emergency|緊急停水|23-10-2026 15:55||AREA AROUND WO HOP SHEK VILLAGE|和合石村 一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102314911|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|23-10-2026 15:50|23-10-2026 16:29|AREA AROUND WONG UK TSUEN|黃屋村一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026102314912|Salt Water|鹹水|Wong Tai Sin|黃大仙區|Emergency|緊急停水|23-10-2026 15:51|23-10-2026 16:38|KAI TAK GARDEN|�ˉw花園|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026102314913|Fresh Water|食水|North|北區|Emergency|緊急停水|23-10-2026 15:55|23-10-2026 16:25|AREA AROUND WO HOP SHEK VILLAGE|和合石村 一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314914|Fresh Water|食水|Central & Western|中西區|Emergency|緊急停水|23-10-2026 22:00||163-173 DES VOEUX ROAD WEST|德輔道西163-173號|Emergency repairing of water main/installation|緊急維修水管工程|Suspension not yet started|停水仍未開始
+2026102314915|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|23-10-2026 16:12||O PUI VILLAGE|澳貝村|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102314916|Salt Water|鹹水|Kowloon City|九龍城區|Emergency|緊急停水|23-10-2026 16:15||23 MAN LOK STREET|民樂街 23號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102314917|Fresh Water|食水|North|北區|Emergency|緊急停水|23-10-2026 16:14||WAI LOI TSUEN|圍內村|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102314918|Fresh Water|食水|Kwai Tsing|葵青區|Emergency|緊急停水|23-10-2026 16:19||30-32 KUNG YIP STREET|工業街30-32號|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026102314919|Fresh Water|食水|North|北區|Emergency|緊急停水|23-10-2026 16:25||WAI LOI TSUEN LANE 5|圍內村 5巷|Valve exercise|水掣測試工作|Supply being suspended|現正停水
