@@ -138,7 +138,7 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026102314903|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|23-10-2026 14:46|23-10-2026 16:00|CORAL VILLAS|珊瑚閣|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314904|Fresh Water|食水|North|北區|Emergency|緊急停水|23-10-2026 14:51|23-10-2026 16:51|AREA AROUND LAMP POST VD8096 PING CHE ROAD|坪輋路 近燈柱VD8096一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314905|Fresh Water|食水|Sai Kung|西貢區|Planned|計劃停水|30-10-2026 09:00||Nos.16,18 to 24 Nam Wai, Lot Nos. DD214 759 RP|南圍16、18至24號,地段編號 DD214 759 RP|Replacement and rehabilitation of water mains|更換及修復水管計劃|Suspension not yet started|停水仍未開始
-2026102314906|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|23-10-2026 15:00||KWAI WO BUILDING, CHEONG FAT BUILDING, KWAI KING BUILDING|葵和大廈, 昌發大廈, 葵景大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102314906|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|23-10-2026 15:00|24-10-2026 02:00|KWAI WO BUILDING, CHEONG FAT BUILDING, KWAI KING BUILDING|葵和大廈, 昌發大廈, 葵景大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026102314909|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|23-10-2026 15:14|23-10-2026 17:14|AREA AROUND LAMP POST GE0828 YUEN LENG TSUEN|元嶺村 近燈柱GE0828一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102314910|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|23-10-2026 15:40|23-10-2026 16:40|LAMP POST VE0177 OF HANG HA PO TSUEN|坑下莆村近燈柱VE0177|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102314911|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|23-10-2026 15:50|23-10-2026 16:29|AREA AROUND WONG UK TSUEN|黃屋村一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
@@ -160,3 +160,4 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026102314929|Salt Water|鹹水|Tsuen Wan|荃灣區|Emergency|緊急停水|23-10-2026 22:47|23-10-2026 23:00|PANDA HOTEL|悅來酒店|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026102414930|Fresh Water|食水|Yau Tsim Mong|油尖旺區|Emergency|緊急停水|24-10-2026 00:01||74-80 NATHAN ROAD|彌敦道74-80號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026102414931|Salt Water|鹹水|Tsuen Wan|荃灣區|Emergency|緊急停水|24-10-2026 00:30||RIVIERA GARDENS|海濱花園|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026102414932|Salt Water|鹹水|Yau Tsim Mong|油尖旺區|Emergency|緊急停水|24-10-2026 01:58||NOS.8-20 OBSERVATORY ROAD, NOS.81-119C CHATHAM ROAD SOUTH, NOS.1-11 AUSTIN AVENUE, NOS.64-80 KIMBERLEY ROAD, NOS.1-12 CHATHAM COURT|天文臺道8-20號，漆咸道南81-119C號，柯士甸路1-11號，金巴利道64-80號，漆咸圍1-12號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
