@@ -121,12 +121,18 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026111015665|Fresh Water|食水|Eastern|東區|Emergency|緊急停水|10-11-2026 15:00||BLOCK 1 & 2, LES SAISONS|逸濤灣第1及2座|Emergency fresh water strainer installation work|緊急安裝濾網工程|Supply being suspended|現正停水
 2026111015666|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|10-11-2026 13:30||AREA OF LAMP POST VA1905, TIN SAM SAN TSUEN|田心新村近燈柱VA1905一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026111015667|Fresh Water|食水|North|北區|Emergency|緊急停水|10-11-2026 14:13||WAI LOI TSUEN|圍內村|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026111015668|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|10-11-2026 14:25||AREA AROUNF PIN SHAN CHAU NEARBY LAMP POST VE6108|半山洲近燈柱VE6108一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026111015669|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|10-11-2026 14:27||AREA AROUND 6 LANE HO CHUNG NEW VILALGE|蠔涌新村 六巷一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026111015670|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|10-11-2026 14:25||AREA AROUND LAMP POST VA3281, TAI HONG WAI|泰康圍 近燈柱 VA3281 附近一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111015668|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|10-11-2026 14:25|10-11-2026 15:44|AREA AROUNF PIN SHAN CHAU NEARBY LAMP POST VE6108|半山洲近燈柱VE6108一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
+2026111015669|Fresh Water|食水|Sai Kung|西貢區|Emergency|緊急停水|10-11-2026 14:27|10-11-2026 16:01|AREA AROUND 6 LANE HO CHUNG NEW VILALGE|蠔涌新村 六巷一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
+2026111015670|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|10-11-2026 14:25|10-11-2026 15:06|AREA AROUND LAMP POST VA3281, TAI HONG WAI|泰康圍 近燈柱 VA3281 附近一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026111015671|Salt Water|鹹水|Wan Chai|灣仔區|Emergency|緊急停水|10-11-2026 14:35||NO.8-50 QUEEN'S ROAD EAST,NO.8-28 HENNESSY ROAD, NO.1-1A ANTON STREET|皇后大道東8-50號,  晏頓街1-1A, 軒尼詩道8-28號|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026111015672|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|10-11-2026 14:37||ROXY INDUSTRIAL CENTRE|樂聲工業中心|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026111015673|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|10-11-2026 14:40||PART OF NG LAU ROAD|部分五柳路|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111015672|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|10-11-2026 14:37|10-11-2026 15:30|ROXY INDUSTRIAL CENTRE|樂聲工業中心|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
+2026111015673|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|10-11-2026 14:40|10-11-2026 15:14|PART OF NG LAU ROAD|部分五柳路|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026111015674|Fresh Water|食水|Central & Western|中西區|Emergency|緊急停水|10-11-2026 14:40|10-11-2026 14:54|NOS 153 DES VOEUX ROAD WEST|德輔道西153號|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
-2026111015675|Fresh Water|食水|North|北區|Emergency|緊急停水|10-11-2026 14:40||LANE 5 & 6 WAI LOI TSUEN|圍內村 第五巷, 第六巷|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026111015675|Fresh Water|食水|North|北區|Emergency|緊急停水|10-11-2026 14:40|10-11-2026 15:17|LANE 5 & 6 WAI LOI TSUEN|圍內村 第五巷, 第六巷|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026111015676|Fresh And Salt Water|食水及鹹水|Yuen Long|元朗區|Emergency|緊急停水|10-11-2026 14:53||AREA AROUND NGAU KENG TSUEN NEARBY LAMP POST U8414|牛徑村近燈柱U8414一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111015677|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|10-11-2026 15:05||AREA OF LAMP POST V0144, SHUI LAU TIN|水流田近燈柱V0144一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111015678|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|10-11-2026 15:09||AREA AROUND LAMP POST EB4044 WAI HA TSUEN|圍下村 近燈柱EB4044一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111015679|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|10-11-2026 15:15||PART OF KAM SHAN TSUEN|部份 錦山村|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026111015681|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|10-11-2026 15:14||PART OF KIN FAT LANE|部分建發里|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111015682|Salt Water|鹹水|Kwai Tsing|葵青區|Emergency|緊急停水|10-11-2026 15:30||KC100, FUGRO HOUSE - KCC2, LIFE@KCC, MAI WO INDUSTRIAL BUILDING, FABRICO INDUSTRIAL BUILDING, WING CHEUNG INDUSTRIAL BUILDING, ROXY INDUSTRIAL CENTRE|KC100, 輝固大廈 - KCC2, LIFE@KCC, 美和工業大廈, 富都工業大廈, 永祥工業大廈, 樂聲工業中心|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026111015683|Fresh Water|食水|North|北區|Emergency|緊急停水|10-11-2026 15:40||AREA AROUND LAMP POST GD3840 AT LUNG MA ROAD|c近 燈柱GD3840 一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
