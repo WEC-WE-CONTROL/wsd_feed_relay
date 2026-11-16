@@ -113,13 +113,16 @@ SUSPENSION_ID|WATER_TYPE_DESCRIPTION|WATER_TYPE_DESCRIPTION_ZHT|DISTRICT_ENG|DIS
 2026111615892|Salt Water|鹹水|Central & Western|中西區|Emergency|緊急停水|16-11-2026 02:30|16-11-2026 07:30|NO.57 QUEEN'S ROAD CENTRAL|皇后大道中57號|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026111615893|Fresh Water|食水|Central & Western|中西區|Emergency|緊急停水|16-11-2026 07:35||PRINCE BUILDING|太子大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
 2026111615894|Fresh Water|食水|Central & Western|中西區|Emergency|緊急停水|16-11-2026 08:28||CHUNG AH BUILDING, HANG YUE BUILDING|中亞大樓, 恒裕大廈|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
-2026111615895|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 09:30||AREA AROUND LAMP POST AD7457 AT TUEN TSZ WAI|屯子圍 近 燈柱AD7457 一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111615895|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 09:30|16-11-2026 10:30|AREA AROUND LAMP POST AD7457 AT TUEN TSZ WAI|屯子圍 近 燈柱AD7457 一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026111615896|Fresh Water|食水|Yau Tsim Mong|油尖旺區|Emergency|緊急停水|16-11-2026 09:34||NOS 251 SHANGHAI STREET|上海街251號|Valve exercise|水掣測試工作|Suspension cancelled|停水已取消
-2026111615897|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 09:30||PART OF KAR WO LEI TSUEN|部份嘉和里村|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026111615898|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 09:36||AREA AROUND LUEN ON SAN TSUEN|聯安新村一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
+2026111615897|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 09:30|16-11-2026 10:30|PART OF KAR WO LEI TSUEN|部份嘉和里村|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026111615898|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 09:36|16-11-2026 11:00|AREA AROUND LUEN ON SAN TSUEN|聯安新村一帶|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
 2026111615899|Fresh Water|食水|North|北區|Emergency|緊急停水|16-11-2026 09:39||AREA AROUND LAMP POST V1265 AT FU TEI PAI|虎地排近燈柱V1268一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026111615900|Fresh Water|食水|North|北區|Emergency|緊急停水|16-11-2026 09:41||SHEUNG SHUI WAI SHEUNG PAK TSUEN NEAR LAMP POST VD5140|上水圍上北村近燈柱VD5140附近|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026111615900|Fresh Water|食水|North|北區|Emergency|緊急停水|16-11-2026 09:41|16-11-2026 11:59|SHEUNG SHUI WAI SHEUNG PAK TSUEN NEAR LAMP POST VD5140|上水圍上北村近燈柱VD5140附近|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026111615901|Fresh Water|食水|Tai Po|大埔區|Emergency|緊急停水|16-11-2026 09:40|16-11-2026 10:24|AREA AROUND LAI CHI SHAN TSUEN|荔枝山花園一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
 2026111615904|Fresh Water|食水|North|北區|Emergency|緊急停水|16-11-2026 10:07||SHEUNG SHUI HANG TAU TSUEN NEAR LAMP POST V1563|上水坑頭村近燈柱V1563附近|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026111615905|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 10:15||PART OF SO KWUNWAT|部分掃管笏|Valve exercise|水掣測試工作|Supply being suspended|現正停水
-2026111615906|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|16-11-2026 10:22||AREA AROUND LAMP POST BD1769 WANG TOI SHAN HUNG MO TAM|橫台山紅毛潭 近燈柱BD1769一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply being suspended|現正停水
+2026111615905|Fresh Water|食水|Tuen Mun|屯門區|Emergency|緊急停水|16-11-2026 10:15|16-11-2026 11:00|PART OF SO KWUNWAT|部分掃管笏|Valve exercise|水掣測試工作|Supply resumed|供水已恢復
+2026111615906|Fresh Water|食水|Yuen Long|元朗區|Emergency|緊急停水|16-11-2026 10:22|16-11-2026 11:25|AREA AROUND LAMP POST BD1769 WANG TOI SHAN HUNG MO TAM|橫台山紅毛潭 近燈柱BD1769一帶|Emergency repairing of water main/installation|緊急維修水管工程|Supply resumed|供水已恢復
+2026111615908|Fresh Water|食水|Wan Chai|灣仔區|Planned|計劃停水|20-11-2026 23:00||No. 1 Harbour Road  Convention Plaza and Grand Hyatt Hotel|港灣道1號 會景閣 及 君悅酒店|Replacement and rehabilitation of water mains|更換及修復水管計劃|Suspension not yet started|停水仍未開始
+2026111615909|Fresh Water|食水|Wan Chai|灣仔區|Planned|計劃停水|19-11-2026 23:00||No. 1 Harbour Road  Convention Plaza and Grand Hyatt Hotel **AFFECT FIRE SERVICE WATER SUPPLY ONLY**|港灣道1號 會景閣 及 君悅酒店 **只阻消防水** |Replacement and rehabilitation of water mains|更換及修復水管計劃|Suspension not yet started|停水仍未開始
+2026111615911|Fresh Water|食水|North|北區|Emergency|緊急停水|16-11-2026 11:46||AREA AROUND LAMP POST EA1722 SHUNG HIM TONG|崇謙堂 近燈柱EA1722一帶|Valve exercise|水掣測試工作|Supply being suspended|現正停水
